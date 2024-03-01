@@ -30,14 +30,10 @@ Um eine Aufgabe zu löschen, klicken Sie auf das X-Symbol neben der Aufgabe.
 
 Um eine Aufgabe als erledigt zu markieren, klicken Sie auf das Häkchen-Symbol neben der Aufgabe.
 
-### Screenshots:
-
-Screenshot von EasyTasks: [ungültige URL entfernt]
-
 ### Links:
 
-- GitHub-Repository: [ungültige URL entfernt]
-- Live-Demo: [ungültige URL entfernt]
+- GitHub-Repository: https://github.com/Z0MZ/M324
+- Live-Demo: https://z0mz.github.io/M324/
 
 ### Entwicklung:
 
