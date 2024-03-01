@@ -9,11 +9,7 @@ EasyTasks ist ein einfaches To-Do-Programm, das in JavaScript und HTML entwickel
 - Festlegen von Gruppen
 - Einfache und intuitive Benutzeroberfläche
 
----
-
-**link zur Demo:** [coming soon]
-
----
+**link zur Demo:** ttps://z0mz.github.io/M324/EasyTasks/index.html
 
 ### Benutzung
 
