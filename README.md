@@ -1,1 +1,48 @@
-# NESA-Insights
+# EasyTasks
+
+## Beschreibung:
+
+EasyTasks ist ein einfaches To-Do-Programm, das in JavaScript und HTML entwickelt wurde. Es ermöglicht Ihnen, Aufgaben zu erstellen, zu bearbeiten und zu löschen. Sie können auch Aufgaben als erledigt markieren und gruppierungen festlegen.
+
+### Features:
+
+- Erstellen, Bearbeiten und Löschen von Aufgaben
+- Markieren von Aufgaben als erledigt
+- Festlegen von Gruppen
+- Einfache und intuitive Benutzeroberfläche
+
+### Technische Details:
+
+- Programmiersprachen: JavaScript, HTML
+- Hosting: GitHub Pages
+
+### Installation:
+
+EasyTasks kann direkt auf GitHub Pages verwendet werden. Sie können die Anwendung auch auf Ihren eigenen Server herunterladen und dort installieren.
+
+**Benutzung:**
+
+Die Benutzung von EasyTasks ist einfach und intuitiv. Sie können Aufgaben hinzufügen, indem Sie auf die Schaltfläche "Neue Aufgabe hinzufügen" klicken. Geben Sie dann den Text der Aufgabe ein. Klicken Sie auf die Schaltfläche "Erstellen", um die Aufgabe zu erstellen.
+
+Um eine Aufgabe zu bearbeiten, klicken Sie auf den Stift-Symbol neben der Aufgabe. Geben Sie die gewünschten Änderungen ein und klicken Sie auf die Schaltfläche "Speichern".
+
+Um eine Aufgabe zu löschen, klicken Sie auf das X-Symbol neben der Aufgabe.
+
+Um eine Aufgabe als erledigt zu markieren, klicken Sie auf das Häkchen-Symbol neben der Aufgabe.
+
+### Screenshots:
+
+Screenshot von EasyTasks: [ungültige URL entfernt]
+
+### Links:
+
+- GitHub-Repository: [ungültige URL entfernt]
+- Live-Demo: [ungültige URL entfernt]
+
+### Entwicklung:
+
+EasyTasks befindet sich noch in der Entwicklung. Es sind noch einige Funktionen geplant, z. B. die Möglichkeit, Aufgaben zu kategorisieren und die Zusammenarbeit mit anderen Benutzern.
+
+**Beiträge:**
+
+Beiträge zu EasyTasks sind willkommen. Sie können Fehler melden, Pull Requests erstellen oder neue Funktionen vorschlagen.
