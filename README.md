@@ -11,16 +11,7 @@ EasyTasks ist ein einfaches To-Do-Programm, das in JavaScript und HTML entwickel
 - Festlegen von Gruppen
 - Einfache und intuitive Benutzeroberfläche
 
-### Technische Details:
-
-- Programmiersprachen: JavaScript, HTML
-- Hosting: GitHub Pages
-
-### Installation:
-
-EasyTasks kann direkt auf GitHub Pages verwendet werden. Sie können die Anwendung auch auf Ihren eigenen Server herunterladen und dort installieren.
-
-**Benutzung:**
+### Benutzung:
 
 Die Benutzung von EasyTasks ist einfach und intuitiv. Sie können Aufgaben hinzufügen, indem Sie auf die Schaltfläche "Neue Aufgabe hinzufügen" klicken. Geben Sie dann den Text der Aufgabe ein. Klicken Sie auf die Schaltfläche "Erstellen", um die Aufgabe zu erstellen.
 
@@ -30,10 +21,10 @@ Um eine Aufgabe zu löschen, klicken Sie auf das X-Symbol neben der Aufgabe.
 
 Um eine Aufgabe als erledigt zu markieren, klicken Sie auf das Häkchen-Symbol neben der Aufgabe.
 
-### Links:
+### Technische Details:
 
-- GitHub-Repository: https://github.com/Z0MZ/M324
-- Live-Demo: https://z0mz.github.io/M324/
+- Programmiersprachen: JavaScript, HTML
+- Hosting: GitHub Pages
 
 ### Entwicklung:
 
