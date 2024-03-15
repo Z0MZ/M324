@@ -12,9 +12,9 @@ describe('To-Do List Test', function() {
     });
 
     it('should add a new to-do item', async function() {
-        await driver.get("file://C:/Users/Din Sabic/OneDrive - Kt. SG BLD/3_IMS/Informatik/M324/EasyTasks/index.html"); // Pfad zu Ihrer HTML-Datei einfügen
+        await driver.get('file:///Pfad/zur/index.html');
 
-        const todoInput = await driver.findElement(By.css('.todo-input'));
+        const todoInput = await driver.wait(until.elementLocated(By.css('.todo-input')), 1000);
         const todoButton = await driver.findElement(By.css('.todo-button'));
 
         await todoInput.sendKeys('Sample To-Do Item', Key.RETURN);
